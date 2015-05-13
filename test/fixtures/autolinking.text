@@ -1,0 +1,23 @@
+foo http://www.pokemon.com/Pikachu_(Electric) bar
+
+foo (http://www.pokemon.com/Pikachu_(Electric)) bar
+
+foo http://www.pokemon.com/Pikachu_(Electric)) bar
+
+(foo http://www.pokemon.com/Pikachu_(Electric)) bar
+
+((foo http://www.pokemon.com/Pikachu_(Electric))) bar
+
+https://github.com/: some text
+
+(https://github.com/github/github/commit/913c9d3eea606e41646190a7486d94956cf7d530):
+
+https://w_w.github
+
+https://w_w.github.com
+
+https://ww.git_hub.com
+
+ruby/www.ruby-lang.org#666
+
+(www.example.com) [www.example.com]

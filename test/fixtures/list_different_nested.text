@@ -1,0 +1,46 @@
+1. Ok: Test 1
+
+  1. Sub1
+
+2. Bug: Test 2
+
+  * Sub2
+
+3. Ok. Test 3
+
+  1. Sub3
+
+
+* * *
+
+1. Ok: Test 1
+  1. Sub1
+2. Bug: Test 2
+  * Sub2
+3. Ok. Test 3
+  1. Sub3
+
+
+* * *
+
+* Ok: Test 1
+
+  * Sub1
+
+* Bug: Test 2
+
+  1. Sub2
+
+* Ok. Test 3
+
+  * Sub3
+
+
+* * *
+
+* Ok: Test 1
+  * Sub1
+* Bug: Test 2
+  1. Sub2
+* Ok. Test 3
+  * Sub3

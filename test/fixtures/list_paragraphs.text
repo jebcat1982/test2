@@ -1,0 +1,27 @@
+# Blank line between items
+When a blank line exists between two list items, only those list items should have paragraphs. All the others should be inline.
+
+* One
+* Two
+
+* Three
+* Four
+
+# Blank line in an item
+When an item has multiple paragraphs, only that item sholud have paragraphs.
+
+* One
+* Two
+
+    Still Two
+* Three
+
+# Blank line in a nested list
+When any nested lists in an item has paragraphs, that item should also have paragraphs.
+
+* A
+* B
+    - 1
+
+    - 2
+* C

@@ -1,0 +1,6 @@
+[bash man page](man:bash(1))
+
+[this link][with-tab] and [that link][with-space]
+
+[with-tab]:	http://example.com/
+[with-space]: http://example.net/

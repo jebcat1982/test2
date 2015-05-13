@@ -1,0 +1,65 @@
+No leading space, unordered list
+---------------------------------
+* a
+* b
+* c
+
+two leading spaces, unordered list
+--------------------------------
+  * a
+  * b
+  * c
+
+three leading spaces, unordered list
+-----------------------------------
+
+   * a
+   * b
+   * c
+
+four leading spaces, unordered list
+-----------------------------------
+
+    * a
+    * b
+    * c
+
+no leading spaces, ordered list
+-----------------------------------
+
+1. test
+2. test
+3. test
+4. test
+
+one leading spaces, ordered list
+------------------------------------
+
+ 1. test
+ 2. test
+ 3. test
+ 4. test
+
+two leading spaces, ordered list
+------------------------------------
+
+  1. test
+  2. test
+  3. test
+  4. test
+
+three leading spaces, ordered list
+--------------------------------------
+
+   1. test
+   2. test
+   3. test
+   4. test
+
+four leading spaces, ordered list
+--------------------------------------
+
+    1. test
+    2. test
+    3. test
+    4. test

@@ -1,0 +1,13 @@
+language: ruby
+rvm:
+  - 2.2
+
+install:
+  - bundle install
+
+cache: bundler
+
+git:
+  depth: 10
+
+sudo: false
