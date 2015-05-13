@@ -9,5 +9,3 @@ cache: bundler
 
 git:
   depth: 10
-
-sudo: false
