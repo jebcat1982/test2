@@ -15,7 +15,7 @@ class TestGFMBasic < Minitest::Test
 
   Dir['test/fixtures/*.text', 'test/fixtures/Markdown_Redcarpet/**/*.text'].each do |md_file|
     next if md_file =~ /table/
-    next unless md_file =~ /list_fenced_code_blocks/
+    # next unless md_file =~ /list_fenced_code_blocks/
     puts md_file
     dirname = File.dirname(md_file)
     markup = md_file.split('/').last.gsub(/\.text/, '').gsub(/(\s+)/, "_")

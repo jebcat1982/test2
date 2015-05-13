@@ -1,28 +1,74 @@
-<ol>
-<li><p>One</p>
+<h2>No leading space, unordered list</h2>
 
-<pre><code>An
-Actual
+<ul>
+<li>a</li>
+<li>b</li>
+<li>c</li>
+</ul>
 
+<h2>two leading spaces, unordered list</h2>
 
+<ul>
+<li>a</li>
+<li>b</li>
+<li>c</li>
+</ul>
 
-Code
-Block
-</code></pre></li>
-<li>Two</li>
-</ol>
+<h2>three leading spaces, unordered list</h2>
 
-<pre><code>A
-Code
-Block
+<ul>
+<li>a</li>
+<li>b</li>
+<li>c</li>
+</ul>
+
+<h2>four leading spaces, unordered list</h2>
+
+<pre><code>* a
+* b
+* c
 </code></pre>
 
+<h2>no leading spaces, ordered list</h2>
+
 <ol>
-<li>A</li>
-<li>B</li>
+<li>test</li>
+<li>test</li>
+<li>test</li>
+<li>test</li>
 </ol>
 
-<pre><code>Another
-Code
-Block
+<h2>one leading spaces, ordered list</h2>
+
+<ol>
+<li>test</li>
+<li>test</li>
+<li>test</li>
+<li>test</li>
+</ol>
+
+<h2>two leading spaces, ordered list</h2>
+
+<ol>
+<li>test</li>
+<li>test</li>
+<li>test</li>
+<li>test</li>
+</ol>
+
+<h2>three leading spaces, ordered list</h2>
+
+<ol>
+<li>test</li>
+<li>test</li>
+<li>test</li>
+<li>test</li>
+</ol>
+
+<h2>four leading spaces, ordered list</h2>
+
+<pre><code>1. test
+2. test
+3. test
+4. test
 </code></pre>
